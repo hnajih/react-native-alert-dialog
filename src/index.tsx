@@ -1,5 +1,7 @@
-export default {
-  multiply(a: number, b: number) {
-    return Promise.resolve(a * b);
-  },
-};
+export { default } from './Alert';
+export { themes, ThemeType } from './alert-theme-context';
+export {
+  default as AlertProvider,
+  ThemeContext,
+  useAlert,
+} from './AlertProvider';

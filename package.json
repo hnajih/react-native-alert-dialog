@@ -1,6 +1,6 @@
 {
   "name": "react-native-alert-dialog",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "react-native-alert-dialog",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
